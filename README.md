@@ -17,7 +17,7 @@
 
 *for MSU site wind components needs additional rotation, will be corrected soon
 
-### Current structure of the [metadata file]:(https://github.com/mvarentsov/UrbanFluxesNE/blob/main/site_data.csv)
+### Current structure of the [metadata file](https://github.com/mvarentsov/UrbanFluxesNE/blob/main/site_data.csv):
 - City & site name: `city_name`, `site_name`
 - Location: `longitude`,	`latitude` [degrees]
 - Shift of the local time with respect to UTC: `time_belt` [hours]
