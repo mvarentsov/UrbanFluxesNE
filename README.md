@@ -1,9 +1,23 @@
 # Urban Fluxes in Northern Eurasia (UrbanFluxesNE)
 
+### Current structure of the files with meteorological variables:
+- 'Qh', sensible heat flux [W/m2]
+- 'Qtau', momentum heat flux [W/m2]
+- 'Ustar', friction velocity [m/s]
+- 'T_air', air temperature [degrees C]
+- 'RH_air', relative humidity [%]
+- 'P_air', atmospheric pressure [hPa]
+- 'Rho_air', air density [kg/m3]
+- 'Wind_U', zonal wind speed component [m/s]*
+- 'Wind_V', meridional wind speed component [m/s]*
+- 'Wind_W', vertical wind speed component before axis rotation [m/s]
+- 'Wind_vel', wind speed [m/s]
+- 'Wind_dir', wind direction [m/s]*
+- 'Wind_alpha', wind atach angle before axis correction [degrees]
 
-### Structure of the files with meteorological variables:
+*for MSU site wind components needs additional rotation, will be corrected soon
 
-### Current structure of the metadata file (sitedata.csv)
+### Current structure of the [metadata file]:(https://github.com/mvarentsov/UrbanFluxesNE/blob/main/site_data.csv)
 - City & site name: `city_name`, `site_name`
 - Location: `longitude`,	`latitude` [degrees]
 - Shift of the local time with respect to UTC: `time_belt` [hours]
