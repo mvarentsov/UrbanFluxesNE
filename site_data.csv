@@ -1,4 +1,4 @@
-,city_name,site_name,longitude,latitude,time_belt,obs_levels,impervious_area_fraction_R250m,impervious_area_fraction_R500m,impervious_area_fraction_R1000m,uc_area_fraction_R250m,uc_area_fraction_R500m,uc_area_fraction_R1000m,LCZ_urb_250m,LCZ_rur_250m,LCZ_urb_500m,LCZ_rur_500m,LCZ_urb_1000m,LCZ_rur_1000m
+,city_name,site_name,longitude,latitude,time_belt,obs_levels,impervious_area_fraction_R250m,impervious_area_fraction_R500m,impervious_area_fraction_R1000m,uc_area_fraction_R250m,uc_area_fraction_R500m,uc_area_fraction_R1000m,LCZ_urb_R250m,LCZ_nat_R250m,LCZ_urb_R500m,LCZ_nat_R500m,LCZ_urb_R1000m,LCZ_nat_R1000m
 0,Moscow,MSU,37.522814,55.707187,3,"2,11,19",0.2674101610904585,0.3048032228075612,0.4376569037656904,0.6246428571428572,0.5652678571428571,0.6883842794759825,5.0,,5.0,,5.0,
 1,Tomsk,IMCES,85.05418479,56.47495593,7,"30,40",0.33438869946419875,0.4691680856239358,0.3789142622726651,0.9142857142857143,0.8356521739130435,0.712516129032258,5.0,,5.0,,5.0,
 2,Tomsk,Oblkom,84.95745142,56.46718329,7,30,0.7858703568827385,0.806477093206951,0.738119481466847,0.9882142857142857,0.9856896551724138,0.9585529157667386,2.0,,2.0,,5.0,
