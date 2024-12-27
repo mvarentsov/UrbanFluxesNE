@@ -1,6 +1,17 @@
 # Urban Fluxes in Northern Eurasia (UrbanFluxesNE)
 
-Contributors:
+
+### Structure of the files with meteorological variables:
+
+### Structure of the metadata file (sitedata.csv)
+- City & site name: `city_name`, `site_name`
+- Location: `longitude`,	`latitude`
+- Vertical levels of observations: `obs_levels`
+- Imperveous area fraction within 250, 500 and 1000 m arount towers according to ESA WorldCover dataset (Zanaga et al....): `impervious_area_fraction_R*m`
+- 
+
+
+### Contributors:
 - Dr. Varentsov M.I. (data collection & processing)
 - Dr. Telminov A.E. (organizing observations in Tomsk)
 - Dr. Kobzev A.A. (organizing observations in Tomsk)
