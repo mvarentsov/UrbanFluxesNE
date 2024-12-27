@@ -1,4 +1,4 @@
-# Urban Fluxes in the Northern Eurasia (UrbanFluxesNE)
+# Urban Fluxes in Northern Eurasia (UrbanFluxesNE)
 
 
 ### Structure of the files with meteorological variables:
