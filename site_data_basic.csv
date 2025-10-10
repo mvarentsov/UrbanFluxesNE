@@ -1,5 +1,6 @@
 city_name;site_name;longitude;latitude;time_belt;obs_levels
 Moscow;MSU;37.522814;55.707187;3;2,11,19
+Moscow;ZNS;36.775278;55.696111;3;10,56
 Tomsk;IMCES;85.05418479;56.47495593;7;30,40
 Tomsk;Oblkom;84.95745142;56.46718329;7;30
 Tomsk;BEK;85.10152606;56.48087222;7;30
