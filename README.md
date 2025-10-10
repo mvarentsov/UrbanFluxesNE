@@ -34,7 +34,7 @@
 - Pashkin A.D. (organizing observations in Tomsk and Moscow, MSU urban site)
 - Dr. Gavrikov A.V. (organizing observations in Moscow, MSU urban site)
 - Artamonov A.Y. (organizing observations in Moscow, MSU surban ite)
-- Dr. Liuliukin V.S. (organizing observations in Moscow region, ZNS rural site)
+- Dr. Liuliukin V.S. (organizing observations & data processing for Moscow region, ZNS rural site)
 - Dr. Stepanenko V.M. (organizing observations in Moscow, MSU site & project supervision)
 - Dr. Repina I.A. (organizing observations in Tomsk, Moscow, MSU site & project supervision)
 
