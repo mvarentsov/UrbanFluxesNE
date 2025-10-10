@@ -2,7 +2,7 @@
 
 ### Current structure of the files with meteorological variables:
 - 'Qh', sensible heat flux [W/m2]
-- 'Qtau', momentum heat flux [W/m2]
+- 'Qtau', Momentum flux $\\tau, [kg·m^{-2}·s^{-1}$]
 - 'Ustar', friction velocity [m/s]
 - 'T_air', air temperature [degrees C]
 - 'RH_air', relative humidity [%]
@@ -13,7 +13,7 @@
 - 'Wind_W', vertical wind speed component before axis rotation [m/s]
 - 'Wind_vel', wind speed [m/s]
 - 'Wind_dir', wind direction [m/s]*
-- 'Wind_alpha', wind atach angle before axis correction [degrees]
+- 'Wind_alpha', wind attack angle before axis correction [degrees]
 
 *for MSU site wind components needs additional rotation, will be corrected soon
 
@@ -28,12 +28,13 @@
 
 ### Contributors:
 - Dr. Varentsov M.I. (data collection & processing)
-- Dr. Telminov A.E. (organizing observations in Tomsk)
+- Dr. Telminov A.E. (organizing observations & data processing in Tomsk)
 - Dr. Kobzev A.A. (organizing observations in Tomsk)
-- Drozd I.D. (organizing observations in Moscow, MSU site)
-- Pashkin A.D. (organizing observations in Tomsk and Moscow, MSU site)
-- Dr. Gavrikov A.V. (organizing observations in Moscow, MSU site)
-- Artamonov A.Y. (organizing observations in Moscow, MSU site)
+- Drozd I.D. (organizing observations & data processing in Moscow, MSU urban site)
+- Pashkin A.D. (organizing observations in Tomsk and Moscow, MSU urban site)
+- Dr. Gavrikov A.V. (organizing observations in Moscow, MSU urban site)
+- Artamonov A.Y. (organizing observations in Moscow, MSU surban ite)
+- Dr. Liuliukin V.S. (organizing observations in Moscow region, ZNS rural site)
 - Dr. Stepanenko V.M. (organizing observations in Moscow, MSU site & project supervision)
 - Dr. Repina I.A. (organizing observations in Tomsk, Moscow, MSU site & project supervision)
 
