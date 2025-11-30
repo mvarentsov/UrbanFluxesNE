@@ -38,4 +38,6 @@
 - Dr. Stepanenko V.M. (organizing observations in Moscow, MSU site & project supervision)
 - Dr. Repina I.A. (organizing observations in Tomsk, Moscow, MSU site & project supervision)
 
+Source codes used for data processing are availible in [another repository](hNfrttps://github.com/mvarentsov/pyUrbanFluxes).
+
 The development of this dataset was supported by the Russian Science Foundation, project no. 24-17-00155 under supervision of [Dr. Irina Repina](https://www.researchgate.net/profile/Irina-Repina)
