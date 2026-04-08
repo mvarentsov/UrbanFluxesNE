@@ -36,7 +36,8 @@
 - Artamonov A.Y. (organizing observations in Moscow, MSU surban ite)
 - Dr. Liuliukin V.S. (organizing observations & data processing for Moscow region, ZNS rural site)
 - Dr. Stepanenko V.M. (organizing observations in Moscow, MSU site & project supervision)
-- Dr. Repina I.A. (organizing observations in Tomsk, Moscow, MSU site & project supervision)
+- Dr. Irina Repina (organizing observations in Tomsk, Moscow, MSU site & project supervision)
+- Dr. Zhou Libo (organizing observations and data curation for Beijing sites)
 
 Source codes used for data processing are availible in [pyUrbanFluxes repository](https://github.com/mvarentsov/pyUrbanFluxes).
 
