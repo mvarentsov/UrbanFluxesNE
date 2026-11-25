@@ -3,7 +3,7 @@
 > [!CAUTION]
 > **The dataset has moved to Zenodo. It will be made publicly available once the dataset is finalized and the accompanying article is published.**
 >
-> **Until then, please request access from the corresponding author, [Dr. Mikhail Varentsov](mailto:mvar91@gmail.com), or the project lead, [Prof. Irina Repina](https://ifaran.ru/en/persons/5785).**
+> **Until then, please request access from the corresponding author, [Dr. Mikhail Varentsov](mailto:mvar91@gmail.com), or the project lead, [Prof. Irina Repina](mailto:repina@ifaran.ru).**
 
 UrbanFluxesNE brings together Level 1 observations of surface–atmosphere exchange from sites in the Moscow region, Tomsk, and the Beijing region, including Xianghe. The dataset includes sensible and latent heat, momentum, and carbon dioxide fluxes, along with meteorological and radiation measurements where available. This repository documents the observation sites and the team that assembled the dataset.
 
